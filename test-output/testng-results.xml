@@ -2,64 +2,64 @@
 <testng-results ignored="0" total="5" passed="4" failed="1" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-01-11T10:49:04Z" name="Default suite" finished-at="2025-01-11T10:50:44Z" duration-ms="99822">
+  <suite started-at="2025-01-13T20:01:08Z" name="Default suite" finished-at="2025-01-13T20:02:07Z" duration-ms="58841">
     <groups>
     </groups>
-    <test started-at="2025-01-11T10:49:04Z" name="Default test" finished-at="2025-01-11T10:50:44Z" duration-ms="99822">
+    <test started-at="2025-01-13T20:01:08Z" name="Default test" finished-at="2025-01-13T20:02:07Z" duration-ms="58841">
       <class name="TestCases.TestClass">
-        <test-method is-config="true" signature="openBrowser()[pri:0, instance:TestCases.TestClass@528c868]" started-at="2025-01-11T10:49:04Z" name="openBrowser" finished-at="2025-01-11T10:49:19Z" duration-ms="15346" status="PASS">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:TestCases.TestClass@5f9be66c]" started-at="2025-01-13T20:01:08Z" name="openBrowser" finished-at="2025-01-13T20:01:15Z" duration-ms="6404" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- openBrowser -->
-        <test-method signature="addToCart()[pri:0, instance:TestCases.TestClass@528c868]" started-at="2025-01-11T10:49:19Z" name="addToCart" finished-at="2025-01-11T10:49:35Z" duration-ms="16110" status="PASS">
+        <test-method signature="addToCart()[pri:0, instance:TestCases.TestClass@5f9be66c]" started-at="2025-01-13T20:01:15Z" name="addToCart" finished-at="2025-01-13T20:01:23Z" duration-ms="8394" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- addToCart -->
-        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:TestCases.TestClass@528c868]" started-at="2025-01-11T10:49:35Z" name="closeBrowser" finished-at="2025-01-11T10:49:36Z" duration-ms="650" status="PASS">
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:TestCases.TestClass@5f9be66c]" started-at="2025-01-13T20:01:23Z" name="closeBrowser" finished-at="2025-01-13T20:01:23Z" duration-ms="235" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeBrowser -->
-        <test-method is-config="true" signature="openBrowser()[pri:0, instance:TestCases.TestClass@528c868]" started-at="2025-01-11T10:49:36Z" name="openBrowser" finished-at="2025-01-11T10:49:45Z" duration-ms="8594" status="PASS">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:TestCases.TestClass@5f9be66c]" started-at="2025-01-13T20:01:23Z" name="openBrowser" finished-at="2025-01-13T20:01:26Z" duration-ms="2977" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- openBrowser -->
-        <test-method signature="addToCart2()[pri:0, instance:TestCases.TestClass@528c868]" started-at="2025-01-11T10:49:45Z" name="addToCart2" finished-at="2025-01-11T10:49:58Z" duration-ms="13480" status="PASS">
+        <test-method signature="addToCart2()[pri:0, instance:TestCases.TestClass@5f9be66c]" started-at="2025-01-13T20:01:26Z" name="addToCart2" finished-at="2025-01-13T20:01:38Z" duration-ms="11390" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- addToCart2 -->
-        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:TestCases.TestClass@528c868]" started-at="2025-01-11T10:49:58Z" name="closeBrowser" finished-at="2025-01-11T10:49:58Z" duration-ms="240" status="PASS">
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:TestCases.TestClass@5f9be66c]" started-at="2025-01-13T20:01:38Z" name="closeBrowser" finished-at="2025-01-13T20:01:38Z" duration-ms="324" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeBrowser -->
-        <test-method is-config="true" signature="openBrowser()[pri:0, instance:TestCases.TestClass@528c868]" started-at="2025-01-11T10:49:58Z" name="openBrowser" finished-at="2025-01-11T10:50:07Z" duration-ms="8758" status="PASS">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:TestCases.TestClass@5f9be66c]" started-at="2025-01-13T20:01:38Z" name="openBrowser" finished-at="2025-01-13T20:01:41Z" duration-ms="2442" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- openBrowser -->
-        <test-method signature="loginFailureText()[pri:0, instance:TestCases.TestClass@528c868]" started-at="2025-01-11T10:50:07Z" name="loginFailureText" finished-at="2025-01-11T10:50:09Z" duration-ms="1980" status="PASS">
+        <test-method signature="loginFailureText()[pri:0, instance:TestCases.TestClass@5f9be66c]" started-at="2025-01-13T20:01:41Z" name="loginFailureText" finished-at="2025-01-13T20:01:42Z" duration-ms="1664" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginFailureText -->
-        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:TestCases.TestClass@528c868]" started-at="2025-01-11T10:50:09Z" name="closeBrowser" finished-at="2025-01-11T10:50:09Z" duration-ms="356" status="PASS">
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:TestCases.TestClass@5f9be66c]" started-at="2025-01-13T20:01:42Z" name="closeBrowser" finished-at="2025-01-13T20:01:43Z" duration-ms="247" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeBrowser -->
-        <test-method is-config="true" signature="openBrowser()[pri:0, instance:TestCases.TestClass@528c868]" started-at="2025-01-11T10:50:09Z" name="openBrowser" finished-at="2025-01-11T10:50:18Z" duration-ms="8827" status="PASS">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:TestCases.TestClass@5f9be66c]" started-at="2025-01-13T20:01:43Z" name="openBrowser" finished-at="2025-01-13T20:01:46Z" duration-ms="3223" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- openBrowser -->
-        <test-method signature="loginSuccessTest2()[pri:0, instance:TestCases.TestClass@528c868]" started-at="2025-01-11T10:50:18Z" name="loginSuccessTest2" finished-at="2025-01-11T10:50:21Z" duration-ms="2557" status="PASS">
+        <test-method signature="loginSuccessTest2()[pri:0, instance:TestCases.TestClass@5f9be66c]" started-at="2025-01-13T20:01:46Z" name="loginSuccessTest2" finished-at="2025-01-13T20:01:49Z" duration-ms="3475" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginSuccessTest2 -->
-        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:TestCases.TestClass@528c868]" started-at="2025-01-11T10:50:21Z" name="closeBrowser" finished-at="2025-01-11T10:50:21Z" duration-ms="354" status="PASS">
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:TestCases.TestClass@5f9be66c]" started-at="2025-01-13T20:01:49Z" name="closeBrowser" finished-at="2025-01-13T20:01:49Z" duration-ms="146" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeBrowser -->
-        <test-method is-config="true" signature="openBrowser()[pri:0, instance:TestCases.TestClass@528c868]" started-at="2025-01-11T10:50:21Z" name="openBrowser" finished-at="2025-01-11T10:50:29Z" duration-ms="7508" status="PASS">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:TestCases.TestClass@5f9be66c]" started-at="2025-01-13T20:01:49Z" name="openBrowser" finished-at="2025-01-13T20:01:54Z" duration-ms="4182" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- openBrowser -->
-        <test-method signature="signUpTest1()[pri:0, instance:TestCases.TestClass@528c868]" started-at="2025-01-11T10:50:29Z" name="signUpTest1" finished-at="2025-01-11T10:50:43Z" duration-ms="14236" status="FAIL">
+        <test-method signature="signUpTest1()[pri:0, instance:TestCases.TestClass@5f9be66c]" started-at="2025-01-13T20:01:54Z" name="signUpTest1" finished-at="2025-01-13T20:02:07Z" duration-ms="12975" status="FAIL">
           <exception class="org.openqa.selenium.NoSuchElementException">
             <message>
               <![CDATA[no such element: Unable to locate element: {"method":"css selector","selector":"*[name='addressLineOne']"}
@@ -68,9 +68,9 @@ For documentation on this error, please visit: https://www.selenium.dev/document
 Build info: version: '4.21.0', revision: '79ed462ef4'
 System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '22.0.1'
 Driver info: org.openqa.selenium.chrome.ChromeDriver
-Command: [26ff0c61b3b77ceb2e72659f686ec788, findElement {using=name, value=addressLineOne}]
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 131.0.6778.265, chrome: {chromedriverVersion: 131.0.6778.264 (2d05e315153..., userDataDir: C:\Users\6666\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:54852}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:54852/devtoo..., se:cdpVersion: 131.0.6778.265, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
-Session ID: 26ff0c61b3b77ceb2e72659f686ec788]]>
+Command: [857d27b227f42f09632110175add5781, findElement {value=addressLineOne, using=name}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 131.0.6778.265, chrome: {chromedriverVersion: 131.0.6778.264 (2d05e315153..., userDataDir: C:\Users\6666\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:58898}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:58898/devtoo..., se:cdpVersion: 131.0.6778.265, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 857d27b227f42f09632110175add5781]]>
             </message>
             <full-stacktrace>
               <![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"*[name='addressLineOne']"}
@@ -79,9 +79,9 @@ For documentation on this error, please visit: https://www.selenium.dev/document
 Build info: version: '4.21.0', revision: '79ed462ef4'
 System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '22.0.1'
 Driver info: org.openqa.selenium.chrome.ChromeDriver
-Command: [26ff0c61b3b77ceb2e72659f686ec788, findElement {using=name, value=addressLineOne}]
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 131.0.6778.265, chrome: {chromedriverVersion: 131.0.6778.264 (2d05e315153..., userDataDir: C:\Users\6666\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:54852}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:54852/devtoo..., se:cdpVersion: 131.0.6778.265, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
-Session ID: 26ff0c61b3b77ceb2e72659f686ec788
+Command: [857d27b227f42f09632110175add5781, findElement {value=addressLineOne, using=name}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 131.0.6778.265, chrome: {chromedriverVersion: 131.0.6778.264 (2d05e315153..., userDataDir: C:\Users\6666\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:58898}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:58898/devtoo..., se:cdpVersion: 131.0.6778.265, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 857d27b227f42f09632110175add5781
 at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62)
 at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:502)
 at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:486)
@@ -130,7 +130,7 @@ at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- signUpTest1 -->
-        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:TestCases.TestClass@528c868]" started-at="2025-01-11T10:50:43Z" name="closeBrowser" finished-at="2025-01-11T10:50:44Z" duration-ms="744" status="PASS">
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:TestCases.TestClass@5f9be66c]" started-at="2025-01-13T20:02:07Z" name="closeBrowser" finished-at="2025-01-13T20:02:07Z" duration-ms="702" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeBrowser -->
